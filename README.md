@@ -2,4 +2,4 @@
 
 apparently eymenwsmc is doing it so heres a new project original by me!
 
-https://github.com/arlenh7/eaglercraft-1.0
+https://github.com/arlenh7/eaglercraft-1.3.2
